@@ -1,6 +1,6 @@
 import telebot
 from extentions import ConvException, ConvertValute
-from configs import TOKEN
+from configs import TOKEN, keys
 
 
 bot = telebot.TeleBot(TOKEN)
